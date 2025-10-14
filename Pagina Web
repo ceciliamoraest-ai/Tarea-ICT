@@ -16,6 +16,7 @@
 
 
 
+
 <html>
 <head>
 <title>Ejercicio 1</title>
@@ -85,8 +86,7 @@
 <h1>Audio</h1>
 
 <audio controls>
-  <source src="audio.mp3" type="audio/mpeg">
-  Tu navegador no soporta el audio.
+  <source src="https://n9.cl/n9-pvhsmav" type="audio/mpeg">
 </audio>
 
 </body>
